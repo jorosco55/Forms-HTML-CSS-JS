@@ -1,0 +1,86 @@
+body {
+    background-color: lightgray;
+    font-family: "Lucida Sans", "Calibri Light", SansSerif;
+
+
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+
+}
+
+#form {
+    text-align:center;
+    position: static;
+
+}
+
+
+#btn {
+
+    margin: 20px auto;
+    display: block;
+    position: static;
+    background-color: maroon;
+    color: gold;
+    cursor: pointer;
+    border-style: outset;
+    border-radius: 5px;
+}
+
+
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    border: 10px outset;
+    height: 14em;
+    width: 25em;
+    background-color: gold;
+    margin-left: auto;
+    margin-right: auto;
+    position: static;
+    border-radius: 10px;
+}
+
+
+#postFullName {
+    text-align: center;
+    color: maroon;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+#postAge {
+    text-align: left;
+    margin: 5px;
+    padding: 2px;
+    color: maroon;
+}
+
+#postPhoneNumber {
+    color: maroon;
+    margin: 5px;
+    padding: 2px;
+}
+
+#postAddress {
+    color: maroon;
+    margin: 5px;
+    padding: 2px;
+}
+
+input {
+    color: maroon;
+    background-color: gold;
+    border-radius: 5px;
+}
+
+
+
